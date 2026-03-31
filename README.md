@@ -1,4 +1,4 @@
-# Slate Meridian
+# Flux Harbor
 
 Monochrome light-themed ops dashboard with Express API and static UI.
 
